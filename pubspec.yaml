@@ -3,7 +3,7 @@ description: "lego is all you need"
 #publish_to: 'none'
 repository: https://github.com/flutter-lego/easy_localization_csv_lego
 
-version: 1.0.2
+version: 1.0.3
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -29,7 +29,7 @@ dev_dependencies:
   flutter_lints:
   screenutil_lego: #@add
   bot_toast_lego: #@add
-  widget_binding_lego:
+  widget_binding_lego: #@add
 
 flutter:
   assets:
