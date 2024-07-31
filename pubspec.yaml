@@ -3,7 +3,7 @@ description: "lego is all you need"
 #publish_to: 'none'
 repository: https://github.com/flutter-lego/easy_localization_csv_lego
 
-version: 1.0.3
+version: 1.0.4
 
 environment:
   sdk: '>=3.3.1 <4.0.0'

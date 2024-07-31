@@ -5,7 +5,7 @@ import '../../../../../../main.dart';
 import '../../../../../config/easy_localization_csv_lego/_.dart';
 import '../../../../shared_params/_/material_app.dart';
 
-@ReadyBeforeMaterialApp()
+@ReadyBeforeMaterialApp(index: 1.6)
 Future<void> readyForEasyLocalizationCsvLego(BuildContext context) async {
   setLanguageManually(context);
 
